@@ -14,8 +14,8 @@
 The numbers can be more or less. 
 
 # Sample Results
-java -jar SafaricomPattern.jar 0778224569
-0778224569 does not match Safaricom MSISDN pattern
+$ java -jar SafaricomPattern.jar 0778224569
+	0778224569 does not match Safaricom MSISDN pattern
 
-java -jar SafaricomPattern.jar 0768224569
-0768224569 matches Safaricom MSISDN pattern
+$ java -jar SafaricomPattern.jar 0768224569
+	0768224569 matches Safaricom MSISDN pattern
